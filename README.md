@@ -15,6 +15,7 @@ evals/<사례 이름>/graders/        잘 됐는지 판단하는 기준
 ## 들어 있는 스킬
 
 - `witsttcpw`: 막혔을 때 작동할 수 있는 가장 단순한 것부터 만들게 합니다. 이름은 What Is The Simplest Thing That Could Possibly Work의 머리글자입니다.
+- `hello`: "hello"라고 인사합니다. 스킬이 잘 불리는지 확인하는 예시입니다.
 
 ## Claude에게 보낼 문장
 
