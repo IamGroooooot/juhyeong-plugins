@@ -1,4 +1,4 @@
-# my-skills
+# juhyeong-skills
 
 내가 만든 Skill을 모아 두는 개인 플러그인 저장소입니다. 이 저장소를 템플릿으로 내 GitHub 계정에 복사해서 씁니다.
 
