@@ -1,6 +1,6 @@
 ---
 name: hello
-description: Use when the user asks to say hello or wants to test that this plugin's skills load (hello 해줘, 인사해줘, 스킬 테스트)
+description: Use ONLY when the entire message is just a greeting or a request to greet, in any language (안녕, 안녕하세요, 하이, hi, hello, hey, 인사해줘, hello 해줘), or a request to test that this plugin's skills load (스킬 테스트). NEVER use it when the message contains any other request or task, such as code, questions, or explanations, even if it starts with a greeting (e.g. "안녕, 함수 짜줘").
 ---
 
 # Hello
